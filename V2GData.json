@@ -1,5 +1,4 @@
-{
-    "simulations": [
+[
         {
             "parameters": {
                 "charge_speed": 3,
@@ -127651,4 +127650,3 @@
             }
         }
     ]
-}
